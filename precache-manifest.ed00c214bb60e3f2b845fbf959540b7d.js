@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/emoji-faces/static/js/runtime~main.96fdb10a.js"
   },
   {
-    "revision": "eed4d03721a2926236cf",
-    "url": "/emoji-faces/static/js/main.632499f9.chunk.js"
+    "revision": "ff1795ffa48895f23bea",
+    "url": "/emoji-faces/static/js/main.abee587a.chunk.js"
   },
   {
     "revision": "7f58e854116f13b9c517",
     "url": "/emoji-faces/static/js/2.9c0f4d9f.chunk.js"
   },
   {
-    "revision": "eed4d03721a2926236cf",
+    "revision": "ff1795ffa48895f23bea",
     "url": "/emoji-faces/static/css/main.c7994335.chunk.css"
   },
   {
-    "revision": "5b4984df2e7a1e98bab54e955d0612eb",
+    "revision": "18050695760540fee916da7bfbefa74e",
     "url": "/emoji-faces/index.html"
   }
 ];
